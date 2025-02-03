@@ -7,8 +7,8 @@ This Figma plugin allows to switch between two predefined themes for selected el
 ## Features
 
 - **Gradient Theme Switching**: It switches between two themes defined by the suffixes:
-  - **Theme JioHotstar**: "Gradients - JioHotstar"
-  - **Theme Disney+ Hotstar**: "Gradients - Disney+ Hotstar"
+  - **Theme JioHotstar**: "Gradients - A"
+  - **Theme Disney+ Hotstar**: "Gradients - B"
 
 ## Usage
 
