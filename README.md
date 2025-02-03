@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Figma plugin allows to switch between two predefined themes for selected elements. It processes elements recursively, updating their fill styles based on the current graident theme.
+This Figma plugin allows to switch between two predefined themes for selected elements. It processes elements recursively, updating their fill styles based on the current gradient theme.
 
 ## Features
 
